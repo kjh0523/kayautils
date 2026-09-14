@@ -2,7 +2,7 @@
 
 작고 실용적인 도구를 만듭니다. 대부분 **한국에서 일하다 막히는 자리**에서 출발했습니다.
 
-- 웹: **kayautils.com** *(준비 중)*
+- 웹: **[kayautils.com](https://kayautils.com)**
 
 ---
 
