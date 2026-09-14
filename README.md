@@ -11,6 +11,7 @@
 | | 무엇을 하나 | 어디서 받나 |
 |---|---|---|
 | **kayatext** | 한글(HWP)·엑셀·워드 문서에서 **AI 가 읽을 텍스트**를 뽑습니다 | [kayatext](https://github.com/kjh0523/kayatext) |
+| **kayabackup** | 데이터베이스의 테이블 구조와 데이터를 **검증된 파일 하나로** 백업합니다 | [kayabackup](https://github.com/kjh0523/kayabackup) |
 | **KayaPDF** | 문서를 PDF 로 바꾸고, 챕터를 합치고, 폴더째 일괄 처리합니다 | *준비 중* |
 
 **제품마다 저장소가 따로입니다.** 내려받기와 버그 제보는 각 저장소에서 하시면 됩니다.
